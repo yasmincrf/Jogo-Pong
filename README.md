@@ -1,2 +1,2 @@
-# jogo-pong
-jogo pong com javascript feito com a biblioteca p5.js
+# Jogo-Pong
+Jogo pong com javascript feito com a biblioteca p5.js
